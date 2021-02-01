@@ -23,4 +23,4 @@ Tengo más que decir, pero es mejor si comienzo con este proyecto y explico toda
 
 
 [Readme]: README.md
-[001]: es-MX/001-tema-principal.md
+[001]: src/es-MX/001-tema-principal.md
