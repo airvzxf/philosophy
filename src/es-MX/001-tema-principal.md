@@ -1,4 +1,4 @@
-### Tema principal
+## Tema principal
 
 **¿Cuál es el tema principal?**
 
